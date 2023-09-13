@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92f66c1e.css",
+    "main.js": "/static/js/main.774f1e60.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Backend-developer.jpeg": "/static/media/Backend-developer.3e99ab47fdd90734440f.jpeg",
+    "static/media/carousel-img2.avif": "/static/media/carousel-img2.f071f46778d51ee29989.avif",
+    "static/media/Data-science.png": "/static/media/Data-science.53684bb09566d2dda19b.png",
+    "static/media/dei-logo.png": "/static/media/dei-logo.6ce1cb28e1c00dcd7007.png",
+    "static/media/carousel-img1.avif": "/static/media/carousel-img1.7afd2d07965223fa8216.avif",
+    "static/media/Guru_Charan_Bulusu.jpg": "/static/media/Guru_Charan_Bulusu.4099625e6cd1c4819aa6.jpg",
+    "static/media/carousel-img3.avif": "/static/media/carousel-img3.6eba81cd9e2ccad091df.avif",
+    "static/media/message.png": "/static/media/message.3e1cc91504e39eaf1874.png",
+    "static/media/web-developer.jpg": "/static/media/web-developer.2e8f6c4d9b7eae2d3a43.jpg",
+    "index.html": "/index.html",
+    "main.92f66c1e.css.map": "/static/css/main.92f66c1e.css.map",
+    "main.774f1e60.js.map": "/static/js/main.774f1e60.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f66c1e.css",
+    "static/js/main.774f1e60.js"
+  ]
+}
